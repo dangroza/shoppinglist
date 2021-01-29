@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PE/iy9Y8sJVzUpnJ78+xE1s5zr1KIIkzCIebAHalmZ2kmC+a7eG0QI1vzvoBjRiff0r7OCB0wT72/PJhlBKlrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dan\\Source\\Repos\\dangroza\\shoppinglist\\ShoppingList.iOS\\ShoppingList.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dan\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\dan\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\dan\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\dan\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\dan\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}
