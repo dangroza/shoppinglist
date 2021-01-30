@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ShoppingList",
-    "\\ShoppingList.Android",
-    "\\ShoppingList.iOS",
     "\\ShoppingList.UWP"
   ],
-  "SelectedNode": "\\ShoppingList.Android\\ShoppingList.Android.csproj",
+  "SelectedNode": "\\ShoppingList.sln",
   "PreviewInSolutionExplorer": false
 }
