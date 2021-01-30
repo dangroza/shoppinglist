@@ -11,3 +11,5 @@ C:\Users\dan\Source\Repos\dangroza\shoppinglist\ShoppingList\obj\Debug\netstanda
 C:\Users\dan\Source\Repos\dangroza\shoppinglist\ShoppingList\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\dan\Source\Repos\dangroza\shoppinglist\ShoppingList\obj\Debug\netstandard2.0\ShoppingList.dll
 C:\Users\dan\Source\Repos\dangroza\shoppinglist\ShoppingList\obj\Debug\netstandard2.0\ShoppingList.pdb
+C:\Users\dan\Source\Repos\dangroza\shoppinglist\ShoppingList\obj\Debug\netstandard2.0\Views\ShoppingListAdminPage.xaml.g.cs
+C:\Users\dan\Source\Repos\dangroza\shoppinglist\ShoppingList\obj\Debug\netstandard2.0\Views\ShoppingListProductPage.xaml.g.cs

@@ -25,6 +25,11 @@ namespace ShoppingList
             });
         }
 
+        async void OnAdminManage(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ShoppingListAdminPage());
+        }
+
         async void OnListItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
             if (e.SelectedItem != null)

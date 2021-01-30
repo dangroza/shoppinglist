@@ -8,6 +8,7 @@
                 </OnPlatform>
             </ToolbarItem.IconImageSource>
         </ToolbarItem>
+        <ToolbarItem Text="Admin" Clicked="OnAdminManage"/>
     </ContentPage.ToolbarItems>
     <ListView x:Name="listView" Margin="20" ItemSelected="OnListItemSelected">
         <ListView.ItemTemplate>
